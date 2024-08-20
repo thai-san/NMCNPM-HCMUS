@@ -1,0 +1,62 @@
+[
+    [
+        {
+            "title": "Chỉnh sửa tài khoản",
+            "content": "Thay đổi tên, số điện thoại, đổi mật khẩu, đăng nhập, đăng xuất."
+        }
+    ],
+    [
+        {
+            "title": "Tra cứu thông tin học sinh",
+            "content": "Tra cứu điểm trung bình học kỳ 1 và học kỳ 2 của học sinh."
+        },
+        {
+            "title": "Chỉnh sửa tài khoản",
+            "content": "Thay đổi tên, số điện thoại, đổi mật khẩu, đăng nhập, đăng xuất."
+        }
+    ],
+    [
+        {
+            "title": "Quản lý học sinh",
+            "content": "Thêm học sinh mới, sửa đổi hoặc xóa thông tin học sinh theo quy định."
+        },
+        {
+            "title": "Lập danh sách lớp",
+            "content": "Lập danh sách lớp, thêm học sinh vào lớp hoặc xóa học sinh khỏi lớp."
+        },
+        {
+            "title": "Nhập bảng điểm môn học",
+            "content": "Nhập điểm 15', 1 tiết và cuối kỳ của học sinh theo lớp, môn học và học kỳ."
+        },
+        {
+            "title": "Lập báo cáo tổng kết",
+            "content": "Lập báo cáo tổng kết môn học trong học kỳ hoặc báo cáo tổng kết học kỳ."
+        },
+        {
+            "title": "Tra cứu thông tin học sinh",
+            "content": "Tra cứu điểm trung bình học kỳ 1 và học kỳ 2 của học sinh."
+        },
+        {
+            "title": "Chỉnh sửa tài khoản",
+            "content": "Thay đổi tên, số điện thoại, đổi mật khẩu, đăng nhập, đăng xuất."
+        }
+    ],
+    [
+        {
+            "title": "Cấp quyền đăng nhập",
+            "content": "Cấp quyền đăng nhập cho tài khoản, gồm quyền giáo viên hoặc giáo vụ."
+        },
+        {
+            "title": "Thay đổi quy định",
+            "content": "Thay đổi tuổi tiếp nhận học sinh, sĩ số lớp,  điểm đạt môn và các quy định khác."
+        },
+        {
+            "title": "Quyền giáo vụ",
+            "content": "Tất cả các chức năng của giáo vụ."
+        },
+        {
+            "title": "Chỉnh sửa tài khoản",
+            "content": "Thay đổi tên, số điện thoại, đổi mật khẩu, đăng nhập, đăng xuất."
+        }
+    ]
+]
